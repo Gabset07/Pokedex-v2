@@ -2,7 +2,7 @@
 Projeto de uma pokedex. Feito com HTML,CSS e Javascrypt.
 
 
-Link do projeto online: https://galux17.github.io/projeto-pokedexv2
+Link do projeto online: https://gabset07.github.io/Pokedex-v2/
 
 
 ## Projeto
